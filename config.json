@@ -1,0 +1,9 @@
+{
+	"ip":"DiviamTPM.aternos.me",
+	"port": 28773,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (king3933(remember_no_spaces))",
+	"login-cmd":"/login (king3933)"
+}
